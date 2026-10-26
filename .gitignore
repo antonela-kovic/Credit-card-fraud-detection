@@ -1,0 +1,8 @@
+# Dataset (download from Kaggle, about 150 MB)
+data/*.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+venv/
